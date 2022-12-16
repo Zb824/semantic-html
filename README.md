@@ -1,6 +1,6 @@
 # Semantic HTML Homework
 
-##
+## Refactor the code to meet accessibility standards.
 
 [xxx](https://en.wikipedia.org/wiki/Agile_software_development).
 
