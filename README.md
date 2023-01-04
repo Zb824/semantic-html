@@ -1,8 +1,13 @@
-# Semantic HTML Homework
+# Refactoring Code
 
 ## Refactor the code to meet accessibility standards.
 
-Tasks
+## Description
+The Agency had a mostly fuctional website, but not accessible.  
+I refactored the code to improve accessibility, the website is now more user friendly.
+
+
+## Tasks
 -Semantic refactoring
 -Element restructuring
 -Adding alt image attributes
