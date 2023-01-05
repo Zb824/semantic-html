@@ -2,7 +2,9 @@
 
 ## Refactor the code to meet accessibility standards.
 
-<img src ="assests/img/readme">
+
+<img src ="assests/img/Photo.jpg"/>
+
 
 ## Description
 The Agency had a mostly fuctional website, but not accessible.  
@@ -18,7 +20,7 @@ I refactored the code to improve accessibility, the website is now more user fri
 - Link functionality
 
 
-[xxx](https://en.wikipedia.org/wiki/Agile_software_development).
+[ . ](https://en.wikipedia.org/wiki/Agile_software_development).
 
 ![xx ](./Assets/01-html-css-git-homework-demo.png)
 
