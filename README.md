@@ -6,10 +6,6 @@
 
 
 
-
-<img src ="assests/img/Photo.jpg"/>
-
-
 ## Description
 The Agency had a mostly fuctional website, but not accessible.  
 I refactored the code to improve accessibility, the website is now more user friendly.
@@ -23,8 +19,13 @@ I refactored the code to improve accessibility, the website is now more user fri
 - Creating title element
 - Link functionality
 
+## What I Learned   
 
-[ . ](https://en.wikipedia.org/wiki/Agile_software_development).
+- Semantics enhances our ability to interpret the content for the user. 
 
-![xx ](./Assets/01-html-css-git-homework-demo.png)
+- Semantics can help reduce the number classes and ids required for the code to complete a task. 
+
+- Even if code works, there is probably a more efficient way it can be written.
+
+  
 
