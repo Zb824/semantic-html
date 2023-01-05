@@ -2,7 +2,7 @@
 
 ## Refactor the code to meet accessibility standards.
 
-![My Image](../assets/img/Photo.jpg)
+![My Image](/Users/zachborders/Documents/bootcamp/homework/semantic-html/assets/Photo.jpg)
 
 
 
