@@ -2,6 +2,10 @@
 
 ## Refactor the code to meet accessibility standards.
 
+![My Image](../assets/img/Photo.jpg)
+
+
+
 
 <img src ="assests/img/Photo.jpg"/>
 
